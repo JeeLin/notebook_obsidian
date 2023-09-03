@@ -19,5 +19,7 @@
   "livePreview": true,
   "defaultViewMode": "source",
   "showInlineTitle": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "vimMode": false,
+  "showUnsupportedFiles": true
 }

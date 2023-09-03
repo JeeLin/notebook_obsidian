@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "system",
   "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "S - Images Adjustments",
