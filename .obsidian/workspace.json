@@ -40,9 +40,11 @@
             "id": "3e304d02f2917b23",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "09-Templates/阅读批注.md"
+                "file": "01-Diary/日志存档/2023-09-04.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-Templates/阅读批注.md",
+                "file": "01-Diary/日志存档/2023-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-Templates/阅读批注.md"
+                "file": "01-Diary/日志存档/2023-09-04.md"
               }
             }
           },
@@ -176,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Templates/阅读批注.md",
+                "file": "01-Diary/日志存档/2023-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,8 +210,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e304d02f2917b23",
+  "active": "60ed30d1cc6d4c8d",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2023-09-04.md",
     "09-Templates/时间戳.md",
     "09-Templates/每周小结.md",
     "09-Templates/草稿模板.md",
@@ -237,7 +240,6 @@
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md",
     "02-Reading/3-people/Stefan W. Hell.md",
-    "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md",
     "08-Assets/Pasted image 20230718170012.png",
     "08-Assets/Pasted image 20230718165911.png",
     "08-Assets/Pasted image 20230718165638.png",

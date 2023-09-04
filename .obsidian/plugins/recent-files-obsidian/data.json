@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "obsidan双链与知识图谱",
+      "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
+    },
+    {
       "basename": "阅读批注",
       "path": "09-Templates/阅读批注.md"
     },
@@ -101,10 +105,6 @@
       "path": "02-Reading/mdnotes/@Reinhardt2023.md"
     },
     {
-      "basename": "obsidan双链与知识图谱",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
-    },
-    {
       "basename": "Stefan W. Hell",
       "path": "02-Reading/3-people/Stefan W. Hell.md"
     },
@@ -130,5 +130,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
