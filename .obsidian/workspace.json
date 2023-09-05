@@ -40,14 +40,11 @@
             "id": "3e304d02f2917b23",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-                "viewState": {
-                  "x": 970,
-                  "y": 909.5544642857145,
-                  "zoom": -1.991386869695292
-                }
+                "file": "01-Diary/日志存档/2023-09-05.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
       {
         "id": "a2d3d1f4b6a566ca",
         "type": "tabs",
-        "dimension": 24.509803921568626,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "60ed30d1cc6d4c8d",
@@ -154,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+                "file": "01-Diary/日志存档/2023-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+                "file": "01-Diary/日志存档/2023-09-05.md"
               }
             }
           },
@@ -183,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+                "file": "01-Diary/日志存档/2023-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,6 +214,8 @@
   },
   "active": "3e304d02f2917b23",
   "lastOpenFiles": [
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "01-Diary/日志存档/2023-09-05.md",
     "00-MOC/愿望清单.md",
     "06-Cards/202307181606.md",
     "09-Templates/阅读批注.md",
@@ -240,12 +239,9 @@
     "09-Templates/文献比较.md",
     "09-Templates/卡片模板.md",
     "01-Diary/日志存档/2023-09-03.md",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
-    "01-Diary/日志存档/2023-07-18.md",
-    "02-Reading/mdnotes/@Sahl2017.md",
     "08-Assets/Pasted image 20230718170012.png",
     "08-Assets/Pasted image 20230718165911.png",
     "08-Assets/Pasted image 20230718165638.png",
